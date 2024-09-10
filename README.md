@@ -160,8 +160,3 @@ If everything works well, we should see an instance of a Django application runn
         - Whenever you visit the root path of your URL (localhost:8000), the application’s URLs will be registered.
 
 <hr>
-
-
-8. https://whizzoe.medium.com/in-5-mins-set-up-google-login-to-sign-up-users-on-django-e71d5c38f5d5
-9. https://stackoverflow.com/questions/8477530/how-to-access-user-names-and-profiles-with-django-allauth
-10. https://github.com/pennersr/django-allauth/blob/master/allauth/socialaccount/models.py#L89
